@@ -1,4 +1,3 @@
-// Frontend: React.js with App.js as the entry point
 import React, { useState, useEffect } from "react";
 import "./App.css"; // Optional: Add custom CSS for styling
 
